@@ -1,4 +1,4 @@
-## CRUD operations using [Typescript](https://www.typescriptlang.org/), [MikroORM](https://mikro-orm.io/), [Express](https://expressjs.com/), [Apollo Server](https://www.apollographql.com/), [GraphQl](https://graphql.org/)
+## User Authentication using [Typescript](https://www.typescriptlang.org/), [MikroORM](https://mikro-orm.io/), [Express](https://expressjs.com/), [Apollo Server](https://www.apollographql.com/), [GraphQl](https://graphql.org/)
 
 - `run npm install`
 - `cp .env.example .env`
